@@ -150,7 +150,6 @@ main {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
-
 .task .actions .delete {
 	color: rgba(220, 20, 60, 0.884);
 }
